@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GPA Tool</string>
+    <string name="app_author">xalanq</string>
+    <string name="app_email">xalanq@gmail.com</string>
+    <string name="app_github">github.com/xalanq/GPATool</string>
+    <string name="app_blog">blog.xalanq.com</string>
+    <string name="app_version">v1.0.0</string>
+
+    <string name="about_author">作者: <a href="http://blog.xalanq.com">xalanq</a></string>
+    <string name="about_blog">博客: <a href="http://blog.xalanq.com">blog.xalanq.com</a></string>
+    <string name="about_github">主页: <a href="https://github.com/xalanq/GPATool">github.com/xalanq/GPATool</a></string>
+
+    <string name="login_title">登录</string>
+    <string name="login_username">用户名/学号</string>
+    <string name="login_password">密码</string>
+    <string name="login_username_empty">用户名不能为空！</string>
+    <string name="login_password_empty">密码不能为空！</string>
+    <string name="login_ing">登录中...</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_fail">用户名或密码错误</string>
+    <string name="login_sign_in">走你</string>
+    <string name="login_declaration">声明：\n1. 本软件只会加密存储密码在本地，且该密码仅用于“自动保存密码”功能。\n2. 本软件不会存储、泄露任何个人信息到服务器上（因为本来就没有服务器）。</string>
+    <string name="login_required">请登录！</string>
+
+    <string name="logout_title">注销</string>
+    <string name="logout_message">你确定要退出当前账号吗？</string>
+    <string name="logout_positive">嗯...</string>
+    <string name="logout_positive_message">成功退出</string>
+    <string name="logout_negative">不！手残！</string>
+
+    <string name="get_title">加载</string>
+    <string name="get_ing">获取信息中...</string>
+
+    <string name="network_disabled">网络异常</string>
+    
+    <string name="info_format">总学分:%d 绩点学分:%d GPA:%.2f</string>
+
+    <string name="main_double_click_to_exit">再按一次退出</string>
+
+    <string name="toolbar_login">登录</string>
+    <string name="toolbar_refresh">刷新</string>
+    <string name="toolbar_about">关于</string>
+
+</resources>
